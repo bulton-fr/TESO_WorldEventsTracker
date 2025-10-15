@@ -1,8 +1,8 @@
 ## Title: World Events Tracker
 ## Description: Track all world events status in Tamriel
-## Version: 3.3.0
+## Version: 3.4.0
 ## Author: bulton-fr
-## APIVersion: 101042
+## APIVersion: 101047
 ## SavedVariables: WorldEventsTrackerSavedVariables
 ## DependsOn: LibWorldEvents>=240 LibAddonMenu-2.0>=30
 
